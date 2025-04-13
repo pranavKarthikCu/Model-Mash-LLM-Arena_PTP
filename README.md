@@ -5,6 +5,10 @@ Team – PTP Codex
 Project AskUTA
 Datathon Report: AskUTA Chatbot
 ________________________________________
+
+<img width="549" alt="Screenshot 2025-04-13 at 5 41 52 AM" src="https://github.com/user-attachments/assets/90cbae33-5f38-4dca-bf61-72c0f970b179" />
+
+
 📅 Event
 UTA Datathon 2025
 🏛️ Project Title
